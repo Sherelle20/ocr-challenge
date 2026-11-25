@@ -1,0 +1,16 @@
+Aime Kidzey
+Source Text English.
+
+1. Aggressive breast cancer linked to obesity-driven diabetes
+
+More than 120 million Americans suffer from diabetes or pre-diabetes. Triple-negative breast cancer (TNBC) is the most aggressive form of breast cancer, and TNBC patients with obesity-driven diabetes often have worse outcomes.
+
+A new study by researchers from Boston University Chobanian and Amdiesian School of Medicine helps explain why this happens and suggests a potential way to improve treatment for these patients.
+
+At the present, oncologists do not consider patients with breast cancer and obesity-driven diabetes different in any significant way from patients with breast cancer who are other wise healthy.
+
+The new study, "Insulin Resistance increases TNBC aggressiveness and Brain metastasis via Adiocyte-derived Exosomes," published in Molecular Cancer Research, shows that diabetes the biology of breast cancer, suggesting the need for special consideration for patients who are at much higher risk for brain metastasis. and should be monitored and treated differently than most breast cancer patients.
+
+"We hope our study will lead to better treatments for patients with aggressive breast cancer especially those with metabolic disorders like diabetes. By uncovering how cancer and metabolism are connected, we move one step closer to more personalized and effective therapies," said corresponding author Gerald Y. Denish, Ph.D., Msc, Shirley Prostate Cancer Research Professor and Professor of Pharmacology, Physiology and Biophysics.
+
+Researchers collected exosomes from fat cells and studied how the microRNAs they contain worsen TNBC cell behaviour. They then added these exosomes to cancer cells in lab experiments and experimental models of breast cancer metastasis and observed dangerous changes in their growth, movement, ability to survive under stress and colonize the brain. They found that microRNAs, which are involved in many biological processes, including cell differentiation and insulin secretion, are carried in

@@ -1,0 +1,38 @@
+{
+  "page_01": {
+    "seconds": 29.46,
+    "vram_gb": 7.35,
+    "tokens_in": 3832,
+    "tokens_out": 381
+  },
+  "page_02": {
+    "seconds": 18.47,
+    "vram_gb": 7.35,
+    "tokens_in": 3832,
+    "tokens_out": 212
+  },
+  "page_04": {
+    "seconds": 31.38,
+    "vram_gb": 7.35,
+    "tokens_in": 3832,
+    "tokens_out": 416
+  },
+  "page_05": {
+    "seconds": 15.55,
+    "vram_gb": 7.35,
+    "tokens_in": 3832,
+    "tokens_out": 165
+  },
+  "page_07": {
+    "seconds": 20.27,
+    "vram_gb": 7.35,
+    "tokens_in": 3832,
+    "tokens_out": 240
+  },
+  "page_08": {
+    "seconds": 36.47,
+    "vram_gb": 7.35,
+    "tokens_in": 3832,
+    "tokens_out": 493
+  }
+}

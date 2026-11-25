@@ -1,0 +1,4 @@
+config,split,wer,cer,S,D,I,latency_median_s,vram_gb,points
+qwen2b_full_p1_raw,dev,0.0606,0.0384,42,47,9,24.87,7.35,33.39
+qwen2b_2.5mp_p1_raw,dev,0.0631,0.0387,44,49,9,17.66,5.7,34.69
+qwen2b_1.5mp_p1_raw,dev,0.0742,0.0447,55,56,9,15.82,4.94,34.39
